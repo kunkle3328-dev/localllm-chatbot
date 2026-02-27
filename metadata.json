@@ -1,0 +1,7 @@
+{
+  "name": "LocalLLM Chatbot",
+  "description": "A mobile-first local ChatGPT-style interface that connects directly to LM Studio or local LLM servers. Supports streaming, history, and model management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

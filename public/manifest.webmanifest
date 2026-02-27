@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Local LLM",
+  "short_name": "NexusLLM",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070f",
+  "theme_color": "#4f46e5"
+}
